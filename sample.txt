@@ -1,0 +1,17 @@
+"a0001","BBBB","CCC","DDDD"
+"a0002","BBBB","C
+CC","DDDD"
+"a0003","BBBB","
+CCC","DDDD"
+"a0004","BBBB","
+
+CCC","DDDD"
+"a0004","BBBB","
+C
+CC","DDDD"
+"a0004","BBBB","
+CCC
+","DDDD"
+"a00065","BBBB","
+CCC"
+,"DDDD"
